@@ -1,2 +1,2 @@
 # turtle-racing-game
-small turtle racing game randomly using turtle module in python
+turtle racing game, a turtle win the game by random speed using turtle module in python
